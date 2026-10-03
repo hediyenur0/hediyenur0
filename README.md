@@ -4,14 +4,14 @@
 - *I am a Computer Programming student interested in software development, databases, computer systems, and learning new technologies. I use GitHub to document my learning journey, organize my coursework, and practice programming through projects and exercises.*
 
 ## 🚀 About Me
-- **🎓 Education: Computer Programming Student**
-- **💻 Programming: C#, C**
-- **🗄️ Databases: SQL, Microsoft SQL Server, T-SQL**
-- **🧩 Interests: Software Development, Object-Oriented Programming, Database Management, Computer Networks and Operating Systems**
-- **🌱 Currently Learning: C#, SQL Server, T-SQL, Database Administration and Software Development**
-- **🛠️ Coursework: Object-Oriented Programming, Database Management Systems, Visual Programming, Operating Systems and Network Systems**
-- **📚 Hobbies: Reading, learning new technologies and improving my programming skills**
-- **🎯 Goal: To continuously improve my technical skills and build useful projects step by step.**
+- **🎓 Education:** Computer Programming Student
+- **💻 Programming:** C#, C
+- **🗄️ Databases:** SQL, Microsoft SQL Server, T-SQL
+- **🧩 Interests:** Software Development, Object-Oriented Programming, Database Management, Computer Networks and Operating Systems
+- **🌱 Currently Learning:** C#, SQL Server, T-SQL, Database Administration and Software Development
+- **🛠️ Coursework:** Object-Oriented Programming, Database Management Systems, Visual Programming, Operating Systems and Network Systems
+- **📚 Hobbies:** Reading, learning new technologies and improving my programming skills
+- **🎯 Goal:** To continuously improve my technical skills and build useful projects step by step.
 
 ## 🛠️ Technologies & Skills
 **Programming Languages**
