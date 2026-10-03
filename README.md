@@ -59,4 +59,4 @@
 
 ## 🎯 Learning Journey
 - *I use GitHub to document my academic journey, keep my coursework organized, and turn what I learn into practical exercises and projects.*
-- **I believe that consistent practice, curiosity, and continuous learning are essential for growing as a software developer.**
+- *I believe that consistent practice, curiosity, and continuous learning are essential for growing as a software developer.*
