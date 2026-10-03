@@ -36,7 +36,7 @@
 - Computer Networks
 - Network Systems
 
-## Tools & IDEs
+**Tools & IDEs**
 - Git
 - GitHub
 - Visual Studio
