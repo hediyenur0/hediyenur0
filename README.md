@@ -1,4 +1,4 @@
-**Hi there, I'm Hediye Nur Öz 👋**
+# **Hi there, I'm Hediye Nur Öz 👋**
 
 ## 🎓 Computer Programming Student | 💻 Software Development Learner | 🗄️ Database & Systems Enthusiast
 - **I am a Computer Programming student interested in software development, databases, computer systems, and learning new technologies. I use GitHub to document my learning journey, organize my coursework, and practice programming through projects and exercises.**
