@@ -26,10 +26,8 @@
 **Programming & Development**
 - Object-Oriented Programming
 - Visual Programming
-
-**Data Structures and Algorithms**
-
-**Software Development**
+- Data Structures and Algorithms
+- Software Development
 
 **Systems & Networking**
 - Operating Systems
